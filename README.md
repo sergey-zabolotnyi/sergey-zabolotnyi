@@ -15,7 +15,7 @@
 - 📍 Based in **Dresden, Deutschland** (Open for Remote, Freelance & Full-time opportunities).
 - 💡 Building production-ready AI products and intelligent web applications end-to-end: from idea to deployment.
 - 🚀 Currently building **RenovAI**, **SolarCheck AI**, and **MeisterMeld**.
-- 🗣️ Languages: Russian, Ukrainian, English, German (**B2+**).
+- 🗣️ Languages: Russian, Ukrainian, English(**B1+**), German (**B2**).
 
 ---
 
@@ -46,22 +46,23 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **ScamGuard** | AI platform that detects scam patterns in job postings and messages in real-time with multilingual SSR. | Next.js, AI Classification, i18n SSR | [Live ↗](https://zabolotny.de) |
-| **RenovAI** | AI analyzes room photos/floor plans and generates detailed cost estimates and design ideas. | React, FastAPI, PostgreSQL, OpenAI Vision | In Dev |
-| **SolarCheck AI** | B2B lead platform for solar installers: roof potential via address, ROI logic with external APIs & Stripe. | SvelteKit, FastAPI, Google Solar API, Stripe | In Dev |
-| **MeisterMeld** | Field-service management platform for craftsmen with PWA, job logic, and AI reports from photo/voice. | Next.js, Drizzle ORM, PostgreSQL, PWA | In Dev |
-| **DreamDeck** | AI dream journal Telegram bot with dream analysis, emotion detection, and subscription tracking. | Python, Telegram Bot, Groq API, PostgreSQL | [Bot ↗](https://zabolotny.de) |
-| **Smart-Letter.net** | AI platform for professional letters in 17 languages, voice recognition, and PDF/DOCX/JPEG processing. | FastAPI, React + Vite, Groq API, PostgreSQL | [Live ↗](https://zabolotny.de) |
+| **MeisterMeld** | Field-service management platform for craftsmen with PWA, job logic, and AI reports from photo/voice. | Next.js, Drizzle ORM, PostgreSQL, PWA | [Live ↗](https://meistermeld.de/) |
+| **RenovAI** | AI analyzes room photos/floor plans and generates detailed cost estimates and design ideas. | React, FastAPI, PostgreSQL, OpenAI Vision | [Live ↗](https://remont-online.net/) |
+| **ScamGuard** | AI platform that detects scam patterns in job postings and messages in real-time with multilingual SSR. | Next.js, AI Classification, i18n SSR | [Live ↗](https://scam-guard.de/) |
+| **SolarCheck AI** | B2B lead platform for solar installers: roof potential via address, ROI logic with external APIs & Stripe. | SvelteKit, FastAPI, Google Solar API, Stripe [Live ↗](https://solarnex.zabolotny.de/) |
+| **GeschenkFox.de** | AI gift finder with an interactive quiz for the German market and SEO-optimized architecture. | SvelteKit, Vite, Tailwind CSS, OpenAI API, Vercel | [Live ↗](https://geschenkfox.de/) |
 
 ---
 
 ### 📞 Connect with me
 
-- **Website:** [zabolotny.de](https://zabolotny.de)
-- **LinkedIn:** [linkedin.com/in/szabolotnyi](https://www.linkedin.com/in/szabolotnyi/)
-- **Telegram:** [@zsw777](https://t.me/zsw777)
-- **WhatsApp:** [+491788727417](https://wa.me/491788727417)
-- **Email:** szabolotnyi@icloud.com
+<p align="left">
+  <a href="https://zabolotny.de" target="_blank"><img src="https://img.shields.io/badge/Website-zabolotny.de-success?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/szabolotnyi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/zsw777" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://wa.me/491788727417" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:szabolotnyi@icloud.com"><img src="https://img.shields.io/badge/Email-szabolotnyi@icloud.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
